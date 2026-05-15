@@ -32,3 +32,15 @@
 2. **安装 GUI 依赖**：
    ```bash
    pip install PySide6
+   获取核心文件（核心步骤）：
+请前往原项目 OpenYSM/YSMParser Releases 下载官方编译好的 YSMParser.exe。
+
+放置并运行：
+将下载好的 YSMParser.exe 放置在与本项目的 main.py 相同的文件夹内，然后运行：
+⚖️ 开源协议 (License)
+作为独立开发的外围工具，本界面的源代码遵循 MIT License。
+
+🙏 致谢
+核心解析器所有权归原作者 OpenYSM 所有。
+
+本插件由 Phoebemc-sb 维护。
